@@ -143,6 +143,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>РегулярныеВыражения</Subsystem>
+			<CommonModule>РегВырКлиентСервер</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
