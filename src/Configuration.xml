@@ -145,6 +145,7 @@
 			<Language>Русский</Language>
 			<Subsystem>РегулярныеВыражения</Subsystem>
 			<CommonModule>РегВырКлиентСервер</CommonModule>
+			<CommonModule>РегВырПовтИсп</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
